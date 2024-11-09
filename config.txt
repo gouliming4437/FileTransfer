@@ -1,0 +1,5 @@
+# Directory path for storing files
+# Examples:
+# Windows: C:\Users\YourName\Documents\FileTransfer
+# Mac/Linux: /home/username/FileTransfer
+STORAGE_PATH=downloads
